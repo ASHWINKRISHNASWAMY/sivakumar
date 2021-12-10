@@ -1,3 +1,3 @@
 # sivakumar
 
-### [The Sivakumar Website from Ashwinkrishnaswamy](https://ashwinkrishnaswamy.github.io/sivakumar/)
+### [The Sivakumar Website](https://ashwinkrishnaswamy.github.io/sivakumar/)
